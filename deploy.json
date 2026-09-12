@@ -1,0 +1,39 @@
+{
+ "id": "20260912T081535-a2cfdf",
+ "builtAt": "2026-09-12T07:26:49.671Z",
+ "weeks": [
+  "2026-08-06",
+  "2026-08-13",
+  "2026-08-20",
+  "2026-08-27",
+  "2026-09-03",
+  "2026-09-10"
+ ],
+ "pairsWithImages": [
+  "1.13.6__1.14.2",
+  "1.14.2__1.14.5",
+  "1.14.5__1.14.6",
+  "1.14.6__1.14.7",
+  "1.14.7__1.15.0"
+ ],
+ "files": 36981,
+ "bytes": 628367725,
+ "pages": [
+  "404.html",
+  "404/index.html",
+  "doll/index.html",
+  "index.html",
+  "updates/2026-08-06/index.html",
+  "updates/2026-08-13/index.html",
+  "updates/2026-08-20/index.html",
+  "updates/2026-08-27/index.html",
+  "updates/2026-09-03/index.html",
+  "updates/2026-09-10/index.html",
+  "updates/images/1.13.6__1.14.2/index.html",
+  "updates/images/1.14.2__1.14.5/index.html",
+  "updates/images/1.14.5__1.14.6/index.html",
+  "updates/images/1.14.6__1.14.7/index.html",
+  "updates/images/1.14.7__1.15.0/index.html",
+  "updates/images/index.html"
+ ]
+}
